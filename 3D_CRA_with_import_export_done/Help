@@ -1,0 +1,8 @@
+Kindly run the run.py
+command pattern for import n export:
+<command filename tablename>
+like "Import Do emails"
+     "Export NewFile calls"
+
+for filter without database enter just the person name.
+ 
